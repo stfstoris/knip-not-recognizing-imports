@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "name": "knip-not-recognizing-exports",
+            "path": ".."
+        },
+        {
+            "name": "@package1",
+            "path": "../package1"
+        },
+        {
+            "name": "@package2",
+            "path": "../package2"
+        },
+        {
+            "name": "@package3",
+            "path": "../package3"
+        }
+    ]
+}
